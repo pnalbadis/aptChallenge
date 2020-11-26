@@ -9,7 +9,7 @@ function Example() {
                     <div className="card">
                         <div className="card-header">Test Component</div>
 
-                        <div className="card-body">I'm an example component!</div>
+                        <div className="card-body">I'm an example component & updated!</div>
                     </div>
                 </div>
             </div>
