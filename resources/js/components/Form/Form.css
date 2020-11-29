@@ -1,0 +1,13 @@
+.button {
+    float: right;
+    margin-left: 20px;
+}
+
+.button .btn-primary {
+    width: 110px;
+}
+
+.errors .alert-danger {
+    display: block;
+    width: 100%;
+}
